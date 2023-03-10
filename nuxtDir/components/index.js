@@ -1,5 +1,4 @@
 export { default as Card } from '../../components/Card.vue'
-export { default as DropDownMunu } from '../../components/DropDownMunu.vue'
 export { default as Header } from '../../components/Header.vue'
 export { default as Hero } from '../../components/Hero.vue'
 export { default as LoadingAnimation } from '../../components/LoadingAnimation.vue'
